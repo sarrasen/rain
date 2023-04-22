@@ -1,0 +1,7 @@
+  "giscus",
+    "gitee",
+    "haml",
+    "hitokoto",
+    "iconfont",
+    "iconify",
+    "jsdelivr",
